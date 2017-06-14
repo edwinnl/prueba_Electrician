@@ -255,7 +255,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<ul class="slides">
 								<li>
 									<div class="agileits_w3layouts_banner_info">
-										<h3>AULAS DE SISTEMAS</h3>
+										<h3>prueba para rama PruebaEdwin</h3>
 										<p>Cuenta con seis aulas de sistemas dotadas de computadores en perfecto estado, entre ellas una sala dispuesta para presentaciones con herramientas de multimedia.</p>
 									</div>
 								</li>
