@@ -261,7 +261,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</li>
 								<li>
 									<div class="agileits_w3layouts_banner_info">
-										<h3>LABORATORIOS DE PSICOLOGIA</h3>
+										<h3>LABOooooRATORIOS DE PSICOLOGIA</h3>
 										<p>Dotadas de elementos necesearios para las practicas el area de psicologia tiene a dispocision tres laboratorios, divididos en camara de gessel, pecera y auditorio.</p>
 									</div>
 								</li>
